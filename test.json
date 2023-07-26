@@ -22,5 +22,21 @@
       "likes": ["mice"],
       "dislikes": ["cookies"]
     }
+  },
+  {
+    "name": "Stanley",
+    "species" : "dog",
+    "foods": {
+      "likes": ["chicken"],
+      "dislikes": ["cats"]
+    }
+  },
+  {
+    "name": "Maisie",
+    "species" : "dog",
+    "foods": {
+      "likes": ["soup"],
+      "dislikes": ["doorbells"]
+    }
   }
 ]
