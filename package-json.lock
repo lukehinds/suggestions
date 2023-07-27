@@ -131,6 +131,11 @@
           "resolved": "https://registry.npmjs.org/camelcase/-/camelcase-1.2.1.tgz",
           "integrity": "sha512-wzLkDa4K/mzI1OSITC+DUyjgIl/ETNHE9QvYgy6J6Jvqyyz4C0Xfd+lQhb19sX2jMpZV4IssUn0VDVmglV+s4g=="
         },
+        "changeme": {
+          "version": "1.0.0",
+          "resolved": "https://registry.npmjs.org/changeme/-/changeme-1.0.0.tgz",
+          "integrity": "sha512-wzLkDa4K/mzI1OSITC+DUyjgIl/ETNHE9QvYgy6J6Jvqyyz4C0Xfd+lQhb19sX2jMpZV4IssUn0VDVmglV+s4g=="
+        },
         "cliui": {
           "version": "2.1.0",
           "resolved": "https://registry.npmjs.org/cliui/-/cliui-2.1.0.tgz",
